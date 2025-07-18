@@ -1,0 +1,7 @@
+D:\Rajan_6th_sem\NET_Centric\Lab2\q4\q4\bin\Debug\q4.exe.config
+D:\Rajan_6th_sem\NET_Centric\Lab2\q4\q4\bin\Debug\q4.exe
+D:\Rajan_6th_sem\NET_Centric\Lab2\q4\q4\bin\Debug\q4.pdb
+D:\Rajan_6th_sem\NET_Centric\Lab2\q4\q4\obj\Debug\q4.csproj.AssemblyReference.cache
+D:\Rajan_6th_sem\NET_Centric\Lab2\q4\q4\obj\Debug\q4.csproj.CoreCompileInputs.cache
+D:\Rajan_6th_sem\NET_Centric\Lab2\q4\q4\obj\Debug\q4.exe
+D:\Rajan_6th_sem\NET_Centric\Lab2\q4\q4\obj\Debug\q4.pdb
